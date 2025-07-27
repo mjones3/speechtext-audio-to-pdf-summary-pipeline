@@ -1,0 +1,17 @@
+# Core API and HTTP requests
+requests>=2.31.0
+
+# PDF generation
+reportlab>=4.0.4
+
+# Clipboard operations
+pyperclip>=1.8.2
+
+# Note: tkinter removed - using command-line file input instead
+
+# Optional: Better logging (if you want structured logs)
+# colorlog>=6.7.0
+
+# Development/Testing (optional)
+# pytest>=7.4.0
+# black>=23.0.0
