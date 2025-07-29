@@ -1,0 +1,28 @@
+Please create a professional IT meeting summary from this transcript. Format it with:
+
+**EXECUTIVE SUMMARY** (2-3 sentences highlighting the main purpose and outcomes)
+
+**KEY DECISIONS MADE**
+- List all decisions reached during the meeting
+- Include rationale where mentioned
+
+**ACTION ITEMS**
+- Item description (Owner: Name, Due: Date if mentioned)
+- Be specific about who is responsible
+
+**TECHNICAL DISCUSSION POINTS**
+- Main technical topics covered
+- Any architectural or implementation details discussed
+
+**BLOCKERS & RISKS**
+- Issues that need resolution
+- Potential risks identified
+
+**NEXT STEPS**
+- Immediate next steps
+- Follow-up meetings needed
+
+Make it concise, scannable, and suitable for stakeholders. Focus on actionable information.
+
+TRANSCRIPT:
+{transcript}

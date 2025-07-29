@@ -4,10 +4,13 @@ requests>=2.31.0
 # PDF generation
 reportlab>=4.0.4
 
-# Clipboard operations
-pyperclip>=1.8.2
+# Environment variables
+python-dotenv>=1.0.0
 
-# Note: tkinter removed - using command-line file input instead
+# Claude API client
+anthropic>=0.34.0
+
+# Note: tkinter removed - using batch processing instead
 
 # Optional: Better logging (if you want structured logs)
 # colorlog>=6.7.0
